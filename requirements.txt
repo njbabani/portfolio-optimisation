@@ -1,0 +1,14 @@
+pylint
+numpy
+pandas
+matplotlib
+pytest
+torch
+yfinance
+scikit-learn
+jupyter
+jupyterlab
+optuna
+statsmodels
+seaborn
+pytest
